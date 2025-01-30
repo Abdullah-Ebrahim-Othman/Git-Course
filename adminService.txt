@@ -2,3 +2,4 @@ Add User
 Remove User
 Change The Roles
 Manage The database
+Closing the Connection
